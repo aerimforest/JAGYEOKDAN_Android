@@ -8,7 +8,7 @@
 ##### Platform for providing personalized credential information  
 <br/><br/>
 ### 🎖&nbsp;&nbsp;Awards
-- &nbsp;&nbsp;큐시즘 23기 학술제 최우수상
+- &nbsp;&nbsp;KUSITMS 23기 학술제 최우수상
 <br/>
 
 ### 🌱&nbsp;&nbsp;Development Environment / Language
