@@ -1,7 +1,7 @@
 # 자격단
 ![issue badge](https://img.shields.io/badge/platform-Android-brightgreen)
 
-<img width="70" alt="앱아이콘" src="https://user-images.githubusercontent.com/52696359/122333815-a9175780-cf73-11eb-89e9-79f51681d2d5.png">  
+<img width="70" alt="앱아이콘" src="https://user-images.githubusercontent.com/52696359/125825636-b8959407-829f-44e8-a924-d2459518bc5d.png">  
 
 ## 자격단 
 ##### 개인 맞춤 자격증 정보 제공 플랫폼
