@@ -20,7 +20,7 @@
 ### 👥&nbsp;&nbsp;Team 육회한 인생
 - Android: [김세한](https://github.com/rlatp1409), [김예림](https://github.com/aerimforest), [전희선](https://github.com/huiseon37)
 - Planner: 안홍기, 이명진, 이소윤, 최평강
-- Design: 배지연
+- Design: [배지연](https://github.com/BZyeon)
 <br/>
 
 ### 🔐&nbsp;&nbsp;Notice
